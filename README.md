@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Suzan 👋
 
-<!--
-**suzantadha1/suzantadha1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student at UIC building full-stack tools for businesses.
 
-Here are some ideas to get you started:
+## What I do
+- Head of Software Engineering at MS International
+- Freelance developer at Tadha Corporation
+- Studying Computer Science at UIC (May 2028)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [PHStock](https://github.com/suzantadha1/PHStock): cold storage inventory ledger
+- [Personal Website](https://github.com/suzantadha1/Personal-Website): my portfolio
+
+## Tech
+React · Python · FastAPI · Supabase · JavaScript
+
+## Contact
+[Portfolio](https://personal-website-suzan-tadha.vercel.app) · suzantadha1
