@@ -4,7 +4,7 @@ CS student at UIC building full-stack tools for businesses.
 
 ## What I do
 - Head of Software Engineering at MS International
-- Freelance developer at Tadha Corporation
+- Freelance developer
 - Studying Computer Science at UIC (May 2028)
 
 ## Projects
